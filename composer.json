@@ -1,0 +1,17 @@
+{
+    "name": "roman/sooket",
+    "autoload": {
+        "psr-4": {
+            "Roman\\Sooket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roman-cpp",
+            "email": "rom.arlamov2017@yandex.ru"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^7.2"
+    }
+}
